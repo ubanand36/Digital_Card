@@ -42,11 +42,11 @@ It displays your **profile photo, college name, and social media links** (Instag
 1. **Clone this repository**
    ```bash
    git clone https://github.com/ubanand36/Digital_Card.git
-   
+   ```
 2. **Open the folder**
     ```bash
     cd DigitalCard
-
+    ```
 3. **Run the project**
  -> Open the file index.html in your web browser.
  -> You’ll see your digital name card displayed beautifully.
