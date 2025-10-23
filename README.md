@@ -47,8 +47,8 @@ It displays your **profile photo, college name, and social media links** (Instag
     cd DigitalCard
     ```
 3. **Run the project**
--> Open the file index.html in your web browser.
--> You’ll see your digital name card displayed beautifully.
+- Open the file index.html in your web browser.
+- You’ll see your digital name card displayed beautifully.
    
 ---
 
