@@ -59,7 +59,6 @@ It displays your **profile photo, college name, and social media links** (Instag
    
 ---
 
-Hello Student
 
   
  
