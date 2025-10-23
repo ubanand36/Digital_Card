@@ -57,6 +57,5 @@ It displays your **profile photo, college name, and social media links** (Instag
 If you like this project, don’t forget to star 🌟 the repository!.
 It motivates me to build more awesome beginner-friendly web projects.
    
----
   
  
