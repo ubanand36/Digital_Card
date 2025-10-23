@@ -24,3 +24,39 @@ It displays your **profile photo, college name, and social media links** (Instag
 
 ## 🧩 Project Structure
 
+ 📂 Digital-Name-Card
+ │
+ ├── 📄 index.html # Main HTML file
+ ├── 🎨 style.css # Styling for the card
+ ├── 🖼️ logo.jpg # College or institute logo
+ ├── 🖼️ photo.jpg # Your personal photo
+ ├── 🖼️ instagram.jpg # Instagram icon
+ ├── 🖼️ linkedin.jpg # LinkedIn icon
+ └── 🖼️ email.jpg # Email icon
+
+---
+
+## 💻 How to Use
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/ubanand36/Digital_Card.git
+
+ 2. **Open the folder**
+    ```bash
+    cd Digital-Name-Card
+    
+3. **Run the project**
+ -> Open the file index.html in your web browser.
+ -> You’ll see your digital name card displayed beautifully.
+   
+---
+
+## ⭐ Support
+
+- If you like this project, don’t forget to star 🌟 the repository!
+- It motivates me to build more awesome beginner-friendly web projects.
+   
+
+  
+ 
