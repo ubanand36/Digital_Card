@@ -24,15 +24,15 @@ It displays your **profile photo, college name, and social media links** (Instag
 
 ## 🧩 Project Structure
 
- 📂 Digital-Name-Card
- │
- ├── 📄 index.html # Main HTML file
- ├── 🎨 style.css # Styling for the card
- ├── 🖼️ logo.jpg # College or institute logo
- ├── 🖼️ photo.jpg # Your personal photo
- ├── 🖼️ instagram.jpg # Instagram icon
- ├── 🖼️ linkedin.jpg # LinkedIn icon
- └── 🖼️ email.jpg # Email icon
+📂 Digital-Name-Card
+│
+├── 📄 index.html # Main HTML file
+├── 🎨 style.css # Styling for the card
+├── 🖼️ logo.jpg # College or institute logo
+├── 🖼️ photo.jpg # Your personal photo
+├── 🖼️ instagram.jpg # Instagram icon
+├── 🖼️ linkedin.jpg # LinkedIn icon
+└── 🖼️ email.jpg # Email icon
 
 ---
 
@@ -54,8 +54,8 @@ It displays your **profile photo, college name, and social media links** (Instag
 
 ## ⭐ Support
 
-- If you like this project, don’t forget to star 🌟 the repository!
-- It motivates me to build more awesome beginner-friendly web projects.
+If you like this project, don’t forget to star 🌟 the repository!.
+It motivates me to build more awesome beginner-friendly web projects.
    
 
   
