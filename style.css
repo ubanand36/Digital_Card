@@ -1,0 +1,116 @@
+*
+{padding:0;
+ margin:0;}
+
+body
+{background-color:black;} 
+
+#namecard
+{height:600px;
+ width:300px;
+ background-color:white;
+ border-radius:25px;
+ justify-self:center;
+ margin-top:100px;
+ margin-bottom:100px;
+ padding:10px;
+ padding-left:15px;
+ padding-right:15px;} 
+
+#top
+{height:200px;
+ width:300px;
+ background-color:#929982;
+ justify-self:center;
+ border-radius:10px;
+ position:relative;
+ display:flex;
+ }
+ 
+#bottom
+{height:200px;
+ width:300px;
+ background-color:#EDCBB1;
+ justify-self:center;
+ justify-items:center;
+ margin-top:15px;
+ border-radius:10px;
+ position:relative;} 
+
+#photodiv
+{height:160px;
+ width:160px;
+ border-radius:50%;
+ justify-self:center;
+ margin-top:0px;
+ margin-bottom:0px;
+ background-color:white;
+ position: absolute;
+ top:220px;
+ z-index:2;} 
+
+#photo
+{height:150px;
+ width: 150px;
+ border-radius:50%;
+ margin:5px;} 
+
+.profile_div
+{display:flex;
+ height:50px;
+ width:300px;
+ background-color:#929982;
+ justify-self:center;
+ margin-top:10px;
+ border-radius:30px;} 
+ 
+.other_profile
+{height:30px;
+ width:30px;
+ border-radius:50%;
+ margin:10px;}
+
+p
+{margin:12px;
+ margin-left:70px;
+ text-decoration: none;} 
+
+h1
+{position:absolute;
+ top:50px;
+ left:10px;
+ text-decoration:underline;
+ color:#7C3238;}
+
+h3
+{position:absolute;
+ top:90px;
+ left:60px;
+ color:#7C3238;}
+
+#college
+{position:absolute;
+ top:15px;
+ left:30px;
+ font-size:20px;
+ font-weight:bold;
+ text-align:center;
+ text-decoration:underline;
+ color:#002500;}
+ 
+#logodiv
+{height:100px;
+ width:100px;
+ border-radius:50%;
+ justify-self:left;
+ background-color:white;
+ position: absolute;
+ top:5px;
+ left:5px;
+ z-index:1;}
+ 
+#logo
+{padding:5px;
+ height:90px;
+ width: 90px;
+ border-radius:50%;} 
