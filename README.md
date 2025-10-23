@@ -23,20 +23,6 @@ It displays your **profile photo, college name, and social media links** (Instag
 
 ---
 
-## 🧩 Project Structure
-```
-📂 DigitalCard
-│
-├── 📄 index.html # Main HTML file
-├── 🎨 style.css # Styling for the card
-├── 🖼️ logo.jpg # College or institute logo
-├── 🖼️ photo.jpg # Your personal photo
-├── 🖼️ instagram.jpg # Instagram icon
-├── 🖼️ linkedin.jpg # LinkedIn icon
-└── 🖼️ email.jpg # Email icon
-```
----
-
 ## ⭐ Support
 
 If you like this project, don’t forget to star 🌟 the repository!.
